@@ -1,5 +1,5 @@
 # 配置文件解析工具
-
+# 悟空
 ## 安装
 ```bash
 go get github.com/akkuman/parseConfig
